@@ -13,6 +13,8 @@ dependencies = [
     "matplotlib>=3.10.3",
     "numpy>=2.2.6",
     "polars>=1.29.0",
+    "polars-ds[plot]>=0.8.3",
+    "vl-convert-python>=1.7.0",
 ]
 
 [project.scripts]
